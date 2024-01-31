@@ -47,7 +47,7 @@ torchvision == 0.16.1
 ```
 pip install -r requirements.txt
 ```
-注：requirements.txt中torch 和 torchvision这两个库是手动下载的，可单独使用一下命令安装
+注：requirements.txt中torch 和 torchvision这两个库是手动下载的，可单独使用以下命令安装
 
 ```
 pip install torch==2.1.1 torchvision==0.16.1
